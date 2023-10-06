@@ -2,6 +2,10 @@ package com.calculator.ch02;
 
 public class MainClass {
   public static void main(String[] args) {
-    System.out.println("Hello world!");
+    MyCalculator calculator = new MyCalculator();
+    calculator.calAdd(10, 5);
+    calculator.calSub(10, 5);
+    calculator.calMul(10, 5);
+    calculator.calDiv(10, 5);
   }
 }
