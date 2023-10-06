@@ -7,7 +7,6 @@
     <list default="true" id="04e6664b-2d07-420b-90d3-e3f5d0f229b1" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/calculator/ch02/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/calculator/ch02/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/calculator/ch02/MyCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/calculator/ch02/MyCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -80,7 +79,7 @@
       <workItem from="1696575094502" duration="1059000" />
       <workItem from="1696576157338" duration="300000" />
       <workItem from="1696576460176" duration="28000" />
-      <workItem from="1696576494582" duration="1613000" />
+      <workItem from="1696576494582" duration="2213000" />
     </task>
     <servers />
   </component>
