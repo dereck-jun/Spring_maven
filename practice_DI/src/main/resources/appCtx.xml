@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="cAdd" class="com.mavenproject.ch02.useIoC.Add" />
+    <bean id="cSub" class="com.mavenproject.ch02.useIoC.Sub" />
+    <bean id="cMul" class="com.mavenproject.ch02.useIoC.Mul" />
+    <bean id="cDiv" class="com.mavenproject.ch02.useIoC.Div" />
+    <bean id="cMyCalculator" class="com.mavenproject.ch02.useIoC.MyCalculator" />
+
+    <bean id="cAssembler" class="com.mavenproject.ch02.useIoC.Assembler">
+        <constructor-arg ref="cAdd" />
+        <constructor-arg ref="cSub" />
+        <constructor-arg ref="cMul" />
+        <constructor-arg ref="cDiv" />
+        <constructor-arg ref="cMyCalculator" />
+    </bean>
+
+</beans>

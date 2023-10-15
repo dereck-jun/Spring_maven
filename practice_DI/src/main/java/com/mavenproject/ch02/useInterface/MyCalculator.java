@@ -1,4 +1,4 @@
-package com.mavenproject.ch02;
+package com.mavenproject.ch02.useInterface;
 
 public class MyCalculator {
   public void calculate(int num1, int num2, ICalculator calculator) {

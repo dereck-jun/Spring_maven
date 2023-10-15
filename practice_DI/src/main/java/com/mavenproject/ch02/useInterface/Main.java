@@ -1,4 +1,4 @@
-package com.mavenproject.ch02;
+package com.mavenproject.ch02.useInterface;
 
 public class Main {
   public static void main(String[] args) {
