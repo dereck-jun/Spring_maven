@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ch03_maven_project" />
-        <module name="ch04_management_system" />
         <module name="ch02_calculator" />
         <module name="practice_DI" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ch04_management_system" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
