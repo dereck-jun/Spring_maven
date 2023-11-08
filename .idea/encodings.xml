@@ -3,8 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/ch03_maven_project/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch03_maven_project/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/management_system/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/management_system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch04_management_system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch04_management_system/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/practice_DI/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/practice_DI/src/main/resources" charset="UTF-8" />
   </component>
